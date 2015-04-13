@@ -2,6 +2,9 @@
 #define IMAGESAVER_H
 
 #include <QObject>
+#include <QImage>
+#include <stdio.h>
+
 
 class ImageSaver : public QObject
 {
